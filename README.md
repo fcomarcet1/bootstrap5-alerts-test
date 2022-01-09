@@ -1,3 +1,3 @@
-# bootstrap5-alerts-test
+# Bootstrap-5-alerts-test
 
 Some alerts examples
